@@ -1,0 +1,137 @@
+.MAIN{
+    display: flex;
+    justify-content: center;
+  
+}
+.flex{
+
+    display: flex;
+    flex-direction: column;
+    width: 872px;
+    height: 586.8px;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    text-align: center;
+    padding-top: 32px;
+    padding-top: 24px;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    border: 1px solid rgb(216, 222, 228);
+    border-radius: 6px;
+    width: 274px;
+    height: 186px;
+    justify-content: center;
+    background-color: rgb(246, 248, 250);
+    padding: 16px;
+}
+.Body{
+    display: flex;
+    justify-content: center;
+}
+.help{
+    color: rgb(36, 41, 47);
+    display: flex;
+    /* justify-content: center; */
+    border: 0px;
+    width: 274px;
+    height: 21px;
+    font-size: 14px;
+    padding: 16px;
+    text-align: center;
+}
+.Help{
+    display: flex;
+    /* justify-content: center; */
+    border: 1px solid rgb(216, 222, 228);
+    border-radius: 6px;
+    width: 306px;
+    height: 53px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+.HELP{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content:space-around;
+    font-size: 12px;
+    width: 792px;
+    height: 18px;
+    padding: 40px;
+}
+.BUtton{
+    display: flex;
+    justify-content: center;
+    width: 872px;
+    height: 98px;
+    margin-top: 40px;
+}
+.BUTTON{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(9, 105, 218);
+}
+.ziti{
+    color: #24292f;
+    font-size: 24px;
+    margin: 16px;
+}
+.Username{
+    width: 274px;
+    height: 21px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: rgb(36, 41, 47);
+    border-radius: 6px;
+}
+input{
+    width: 248px;
+    height: 20px;
+    border: 0px;
+    padding: 5px 12px;
+    
+}
+.shuru{
+    border: 1px solid rgb(232, 240, 254);
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+.pass{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: rgb(36, 41, 47);
+    margin-bottom: 8px;
+    border-radius: 6px;
+}
+.sign{
+    display: flex;
+    width: 272px;
+    height: 30px;
+    border: 0px rgb(255, 255, 255);
+    background-color: rgb(45, 164, 78);
+    margin-top: 16px;
+    justify-content: center;
+    border-radius: 6px;
+}
+button{
+
+    background-color: rgb(45, 164, 78);
+    padding: 5px 16px;
+    border: 0px;
+    font-size: 6px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
