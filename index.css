@@ -43,11 +43,10 @@
     height: 21px;
     font-size: 14px;
     padding: 16px;
-    text-align: center;
+    justify-content: space-around;
 }
 .Help{
     display: flex;
-    /* justify-content: center; */
     border: 1px solid rgb(216, 222, 228);
     border-radius: 6px;
     width: 306px;
@@ -70,7 +69,7 @@
 .BUtton{
     display: flex;
     justify-content: center;
-    width: 872px;
+    width: 375px;
     height: 98px;
     margin-top: 40px;
 }
@@ -80,7 +79,7 @@
 }
 a{
     text-decoration: none;
-    font-size: 14px;
+    /* font-size: 12px; */
     color: rgb(9, 105, 218);
 }
 .ziti{
